@@ -20,7 +20,7 @@ function BinarySearch(arr , t){
     }
     return -1;
 }
-console.log(BinarySearch([-5 , 2 , 4 , 6 , 10] , 6));
+console.log(BinarySearch([-5 ,1 , 2 , 4 , 6 , 10 ] , 1));
 console.log(BinarySearch([-5 , 2 , 4 , 6 , 10] , 10));
 console.log(BinarySearch([-5 , 2 , 4 , 6 , 10] , 11));
 
