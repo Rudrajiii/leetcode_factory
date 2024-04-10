@@ -9,7 +9,7 @@
 // Output: ["e","l","l"]
 
 //todo ex-2:
-// Input: words = ["cool","lock","cook"]
+// Input: words = ["cool","lock","cook"];
 // Output: ["c","o"]
 var commonChars = function(words){
     if (words.length === 0) return [];
