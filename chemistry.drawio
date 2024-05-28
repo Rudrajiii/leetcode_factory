@@ -1,0 +1,110 @@
+<mxfile host="65bd71144e">
+    <diagram id="ygI1Cta7V-Et8Qb0IAWq" name="Page-1">
+        <mxGraphModel dx="1675" dy="712" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="4" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="2" target="3">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" style="edgeStyle=none;html=1;" edge="1" parent="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="301.81818181818187" y="430" as="targetPoint"/>
+                        <mxPoint x="360" y="350" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="9" style="edgeStyle=none;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="2" target="10">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="570" y="430" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="26" style="edgeStyle=none;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="2" target="27">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="240" y="260.0000000000001" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="28" style="edgeStyle=none;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="2" target="29">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="419.6153846153845" y="230.0000000000001" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="30" style="edgeStyle=none;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="2" target="31">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="560" y="240.0000000000001" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="2" value="Organic reactions &amp;amp; Synthesis of Drug Molecule" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="360" y="290" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="3" target="12">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" style="edgeStyle=none;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="3" target="15">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="520" y="570" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="3" value="Addition Reactions" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+                    <mxGeometry x="360" y="430" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" style="edgeStyle=none;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="10" target="23">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="680" y="580" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="25" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="10" target="24">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="Elimination Reaction" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="510" y="430" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" style="edgeStyle=none;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="11" target="17">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="150" y="650" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="18" style="edgeStyle=none;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="11" target="19">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="120" y="540" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="21" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="11" target="20">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="Substitution Reaction" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="220" y="430" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="Electrophilic Addition" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="250" y="570" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="Neucliophilic Addition" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="480" y="570" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="Sn1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="90" y="630" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="Sn2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="30" y="530" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" value="Sni" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+                    <mxGeometry x="20" y="430" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" value="E1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="640" y="570" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="24" value="E2" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+                    <mxGeometry x="690" y="460" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" value="Cannizaro Reaction" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="180" y="180.0000000000001" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="29" value="Aldol Reaction" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="359.9953846153845" y="170.0000000000001" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="31" value="&#10;The Diels-Alder Reaction&#10;&#10;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="530" y="180.0000000000001" width="120" height="60" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
