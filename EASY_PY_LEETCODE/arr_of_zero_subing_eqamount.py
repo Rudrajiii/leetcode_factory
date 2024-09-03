@@ -1,3 +1,4 @@
+from typing import *
 class Solution:
     def minimumOperations(self, nums: List[int]) -> int:
         """
@@ -15,8 +16,8 @@ class Solution:
        """
 
         #Brute Force
-         total_oper = 0
-         while [0] * len(nums) != nums:
+        total_oper = 0
+        while [0] * len(nums) != nums:
              sort_nums = sorted(nums)
              for i in sort_nums:
                  if i != 0:
@@ -26,7 +27,7 @@ class Solution:
                  if nums[i] != 0:
                      nums[i] = nums[i] - smallest_non_zero_elem
              total_oper += 1
-         return total_oper
+        return total_oper
         #Optimal
         hashing_set = set()
         for i in nums:
