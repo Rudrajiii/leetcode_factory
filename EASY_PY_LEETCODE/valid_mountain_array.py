@@ -25,3 +25,4 @@ def check_inc(sub_arr):
             check=False
             break
     return check
+
