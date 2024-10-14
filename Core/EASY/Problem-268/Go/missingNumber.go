@@ -9,3 +9,4 @@ func missingNumber(nums []int) int {
     xor1 ^= len(nums)
     return xor1 ^ xor2
 }
+
