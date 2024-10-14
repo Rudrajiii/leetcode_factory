@@ -22,7 +22,7 @@
 
 
 
-Welcome to the **LeetCode Factory** repository! This repository is dedicated to solving all 3313 problems available on LeetCode, organized by difficulty level and categorized by topic. The aim is to provide clear, efficient, and well-documented solutions in multiple programming languages, making it easier for learners and developers to grasp various algorithms and data structures.
+Welcome to the **LeetCode Factory** repository! This repository is dedicated to solving all problems (Currently 3322 ) available on LeetCode, organized by difficulty level and categorized by topic. The aim is to provide clear, efficient, and well-documented solutions in multiple programming languages, making it easier for learners and developers to grasp various algorithms and data structures.
 
 ## Table of Contents
 
