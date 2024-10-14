@@ -24,6 +24,10 @@
 
 Welcome to the **LeetCode Factory** repository! This repository is dedicated to solving all problems (Currently 3322 ) available on LeetCode, organized by difficulty level and categorized by topic. The aim is to provide clear, efficient, and well-documented solutions in multiple programming languages, making it easier for learners and developers to grasp various algorithms and data structures.
 
+## Repo Structure
+![image](https://github.com/user-attachments/assets/7f8cb1e5-b240-493b-b95f-02cfdef1b693)
+
+
 ## Table of Contents
 
 Table of Contents
