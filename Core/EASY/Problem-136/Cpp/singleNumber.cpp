@@ -1,1 +1,2 @@
-//write your C++ Code with Explanation :)
+//Write Your Own Cpp Code :)
+//Tnx For Contributing 💗
