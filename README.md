@@ -11,12 +11,10 @@
 <p align="center">
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 </p>
 <p align="center">
@@ -27,24 +25,6 @@
 </p>
 
 
+Welcome to the **LeetCode Factory** repository! This repository is dedicated to solving all problems **( Currently 3322 )** available on LeetCode :D
 
 
-Welcome to the **LeetCode Factory** repository! This repository is dedicated to solving all problems **(Currently 3322 )** available on LeetCode, organized by difficulty level and categorized by topic. The aim is to provide clear, efficient, and well-documented solutions in multiple programming languages, making it easier for learners and developers to grasp various algorithms and data structures.
-
-## Repo Structure 📖
-![image](https://github.com/user-attachments/assets/7f8cb1e5-b240-493b-b95f-02cfdef1b693)
-
-## Table of Contents
-
-Table of Contents
-  - Difficulty Categories
-    - Easy
-    - Medium
-    - Hard
-  - Topics
-    - Array
-    - String
-    - Hash Table
-    - Dynamic Programming
-    - Math
-    - And More...
