@@ -19,11 +19,11 @@
 </p>
 
 
-## Welcome to the **LeetCode Factory** repository! This repository is dedicated to solving all problems **( Currently 3322 )** available on LeetCode :D
+`✨ Welcome to the **LeetCode Factory** repository! This repository is dedicated to solving all problems **( Currently 3322 )** available on LeetCode :D`
 
 ## Contribution Rule ~
 - Choose The Folder In Which Lang You Do DSA If It Does Not There Make One
-- Main Proper File Formating (Eg. PROB_ID_QuestionTitle.extension) PROB keyword is mandetory in file naming .
+- Maintain Proper File Formating (Eg. PROB_ID_QuestionTitle.extension) PROB keyword is mandetory in file naming .
 - Make Direct Pull Requests.
 
 
