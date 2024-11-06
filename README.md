@@ -3,7 +3,7 @@
 
 <p align="center">
 
-[![License](https://img.shields.io/github/license/0xhimangshu/discord-http-interaction-bot.svg?style=for-the-badge)](https://github.com/0xhimangshu/discord-http-interaction/blob/main/LICENSE)
+[![License](https://img.shields.io/github/license/0xhimangshu/discord-http-interaction-bot.svg?style=for-the-badge)](https://github.com/Rudrajiii/leetcode_factory)
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 
 </p>
@@ -19,7 +19,15 @@
 </p>
 
 
+## Welcome to the **LeetCode Factory** repository! This repository is dedicated to solving all problems **( Currently 3322 )** available on LeetCode :D
 
-Welcome to the **LeetCode Factory** repository! This repository is dedicated to solving all problems **( Currently 3322 )** available on LeetCode :D
+## Contribution Rule ~
+- Choose The Folder In Which Lang You Do DSA If It Does Not There Make One
+- Main Proper File Formating (Eg. PROB_ID_QuestionTitle.extension) PROB keyword is mandetory in file naming .
+- Make Direct Pull Requests.
 
+
+```bash
+Best Of Luck 🚀 And Happy Coding
+```
 
