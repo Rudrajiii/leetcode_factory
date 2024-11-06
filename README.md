@@ -23,7 +23,7 @@
 
 ## Contribution Rule ~
 - Choose The Folder In Which Lang You Do DSA If It Does Not There Make One
-- Maintain Proper File Formating (Eg. PROB_ID_QuestionTitle.extension) PROB keyword is mandetory in file naming .
+- Maintain Proper File Formating (Eg. PROB_ID_QuestionTitle.extension) PROB keyword is mandetory in file naming.
 - Make Direct Pull Requests.
 
 
