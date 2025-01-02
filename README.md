@@ -1,6 +1,5 @@
 <p align="center">
   
-[![License](https://img.shields.io/github/license/0xhimangshu/discord-http-interaction-bot.svg?style=for-the-badge)](https://github.com/Rudrajiii/leetcode_factory)
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 
 </p>
