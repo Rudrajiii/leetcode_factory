@@ -12,6 +12,3 @@ class Solution:
             moving_pointer += 1
         max_diff_2 = fixed_pointer - moving_pointer
         return max(max_diff_1 , max_diff_2)
-
-        
-        
