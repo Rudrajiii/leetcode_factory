@@ -1,8 +1,5 @@
-![img](https://cdn.discordapp.com/attachments/1293862689210236950/1295076109700042762/image-removebg-preview.png?ex=670d551d&is=670c039d&hm=e7870a871a8f51c8be123541da03ea4aba78dc3328ec3afbb9d18db288f6966f&)
-
-
 <p align="center">
-
+  
 [![License](https://img.shields.io/github/license/0xhimangshu/discord-http-interaction-bot.svg?style=for-the-badge)](https://github.com/Rudrajiii/leetcode_factory)
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 
