@@ -1,4 +1,4 @@
-class Solution {
+class PROB_3033_Modify_The_Matrix {
     public int[][] modifiedMatrix(int[][] matrix) {
         int n = matrix[0].length;
         int m = matrix.length;
