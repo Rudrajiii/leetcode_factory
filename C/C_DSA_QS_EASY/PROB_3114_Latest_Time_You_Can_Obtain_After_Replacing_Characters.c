@@ -1,8 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+// "1?:?4"
 char* findLatestTime(char* s) {
-    // "1?:?4"
     if(s[0] == '?' && s[1] == '?'){
         s[0] = '1';
         s[1] = '1';
